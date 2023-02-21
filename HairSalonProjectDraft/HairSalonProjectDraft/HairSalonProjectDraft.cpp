@@ -2,10 +2,35 @@
 //
 
 #include <iostream>
+using namsepace std;
 
+class appointment{
+    private:
+        
+    public:
+};
+
+class stylist{
+    private:
+    
+    public:
+};
+
+class services{
+    private:
+    
+    public:
+};
+
+class costings{
+    private:
+    
+    public:
+};
+ 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int chairs = 5; 
     
     return 0;
 }
@@ -13,4 +38,4 @@ int main()
 
 
 
-utvfwQBHF
+
