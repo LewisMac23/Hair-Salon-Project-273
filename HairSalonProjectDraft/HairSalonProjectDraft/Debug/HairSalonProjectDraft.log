@@ -1,0 +1,12 @@
+﻿  HairSalonProjectDraft.cpp
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(50,72): error C2228: left of '.colouring' must have class/struct/union
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(50,110): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(55,193): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(63,101): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(69,193): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(78,105): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(84,193): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(92,111): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(98,193): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(106,104): error C2065: 'cost': undeclared identifier
+C:\Users\qsb21127\source\repos\HairSalonProjectDraft\HairSalonProjectDraft\HairSalonProjectDraft.cpp(112,193): error C2065: 'cost': undeclared identifier
